@@ -1,5 +1,4 @@
-🌱 Student Wellness Chatbot
-
+###MENTAL-HEALTH-CHATBOT
 An AI-powered emotional wellness and journaling web app built with Streamlit and Google Gemini API.
 This chatbot offers gentle, empathetic conversations to help students reflect on their emotions, track moods, and maintain a personal journal — all stored securely in the browser session.
 
