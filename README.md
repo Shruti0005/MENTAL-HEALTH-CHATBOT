@@ -1,8 +1,8 @@
-###MENTAL-HEALTH-CHATBOT
+# MENTAL-HEALTH-CHATBOT
 An AI-powered emotional wellness and journaling web app built with Streamlit and Google Gemini API.
 This chatbot offers gentle, empathetic conversations to help students reflect on their emotions, track moods, and maintain a personal journal — all stored securely in the browser session.
 
-🧠 Features
+###🧠 Features
 - AI Chatbot (Gemini 2.5 Flash)
 Offers supportive and kind responses about feelings and studies.
 Asks gentle follow-up questions to keep the conversation going.
